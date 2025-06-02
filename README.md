@@ -67,12 +67,7 @@ This project explores the physicochemical properties of red wine and builds a cl
    cd Python-Mini-projects
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the notebooks using Jupyter:
+2. Open the notebooks using Jupyter:
    ```bash
    jupyter notebook
    ```
