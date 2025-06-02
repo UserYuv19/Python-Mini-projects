@@ -63,8 +63,8 @@ This project explores the physicochemical properties of red wine and builds a cl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/UserYuv19/Python-Mini-projects.git
+   cd Python-Mini-projects
    ```
 
 2. Install dependencies:
